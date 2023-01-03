@@ -4,8 +4,8 @@
   #### Ciência da Computação - Universidade de Brasilia
 - 🌱 Atualmente estou estudando para ser desenvolvedor Backend;
    
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromliveira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromliveira&layout=demo&langs_count=7&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugomr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugomr&layout=demo&langs_count=7&theme=midnight-purple"/>
 
 ##
 <div style="display: inline_block"> <br>
