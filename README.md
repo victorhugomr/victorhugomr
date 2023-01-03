@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Olá! Sou <a href='https://github.com/victorhugomr'>Victor Hugo.
+### Olá! Sou o <a href='https://github.com/victorhugomr'>Victor Hugo 👋
   #### Ciência da Computação - Universidade de Brasilia
 - 🌱 Atualmente estou estudando para ser desenvolvedor Backend;
    
