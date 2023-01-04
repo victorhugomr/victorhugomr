@@ -19,9 +19,7 @@
   <a href = "mailto:victorhugo_mr@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
 ##
-  <div style="display: inline_block"> <br>
   ![giphy](https://user-images.githubusercontent.com/22302873/210623198-0833f6ad-f884-4d2e-8c53-61a3cc9d4137.gif)
-  </div>
 
 <!--
 **victorhugomr/victorhugomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
