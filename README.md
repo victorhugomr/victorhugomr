@@ -5,12 +5,10 @@
 - 🌱 Atualmente estou estudando para ser desenvolvedor Backend;
    
 ## Tecnologias
-<div style="display: inline_block"> <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
-</div>
   
 ## Contato
 <div style="display: inline_block"> <br>
