@@ -27,6 +27,8 @@
 <!-- **comentário**
 ## -->
 
-  <p align="center">
-    ![lofi](https://user-images.githubusercontent.com/22302873/210628227-70834f1a-3881-4899-82a7-073fce62410c.gif)
-  </p>
+<p align="center">
+
+  ![lofi](https://user-images.githubusercontent.com/22302873/210628227-70834f1a-3881-4899-82a7-073fce62410c.gif)
+
+</p>
