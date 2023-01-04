@@ -11,7 +11,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   
 ## Contato
-<div style="display: inline_block"> <br>
   <a href="https://www.linkedin.com/in/victorhugomr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:victorhugo_mr@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
