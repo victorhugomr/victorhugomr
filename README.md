@@ -20,12 +20,12 @@
   
 ##
 
-**GitHub Stats**
+<!--**GitHub Stats**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugomr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugomr&layout=demo&langs_count=7&theme=midnight-purple"/>
-</p>
+</p>-->
 
 ##
    
