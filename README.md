@@ -1,6 +1,6 @@
 ### Oi! Como vai você? Sou o <a href='https://github.com/victorhugomr'>Victor Hugo</a> 👋
 
-  #### Formação: Ciência da Computação pela Universidade de Brasilia
+  #### Graduação: Ciência da Computação - Licenciado pela Universidade de Brasilia
 - 🔭 Estou aberto a oportunidades de emprego para início imediato;
 - 🌱 Atualmente estou estudando para ser desenvolvedor Backend;
    
